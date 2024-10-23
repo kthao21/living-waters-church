@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 
 * {
     font: 16px 'Raleway', sans-serif;
@@ -84,7 +86,7 @@ footer {
 .footer-content {
     width: 20%;
 }
-h3 {
+h4 {
     font-size: 28px;
     margin-bottom: 15px;
     text-align: center;
@@ -157,4 +159,13 @@ a:hover{
     margin: 0;
     font-size: 16px;
     padding: 7px;
+}
+h3 {
+    font-family: pacifico;
+    font-size: 50px;
+    padding: 7px;
+}
+
+h2 {
+    font-weight: bold;
 }
